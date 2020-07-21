@@ -1,37 +1,37 @@
-#SHOP: Shop
-#SHOPS: Shops
-#BUY: Buy
-#TYPEIN: Type in
-#ITEMS: Items
-#SELL: Sell
-#REVENUE: Revenue
-#TRANSACTIONS: Transactions
-#PURCHASING: Purchasing
-#BUYING: Buying
-#SELLING: Selling
-#PRICE: Price
-#UNITS: Units
-#AMOUNT: Amount
-#BUY_FOR: Buy for
-#SELL_FOR: Sell for
-#AVAILABLE: Available
-#PRICE_PER_ITEM: Price per Item
-#STOCKED_ITEMS: Stocked Items
-#INCREASE: Increase
-#DECREASE: Decrease
-#QUANTITY: Quantity
-#CONFIRM: Confirm
-#FOR: for
-#YOU_WILL_RECEIVE: You will receive
-#ENCHANTED: Enchanted
-#ITEMS_AVAILABLE: Items available
-#CONTINUE: Continue
-#MONEY_PAID: Money Paid
-#GUI_OVERVIEW_OPENSHOPS_ACTION: Click to open Shops
-#GUI_OVERVIEW_OPENSETTINGS_ACTION: Click to open Settings
-#GUI_SHOPSETTINGS_BUY_LEFTACTION: **Left Click** to **change** buy price
-#GUI_SHOPSETTINGS_BUY_QACTION: **Press Q** to disable buying
-#GUI_SHOPSETTINGS_BUY_OTHERACTION: **Click** to enable **buying**
+SHOP: Winkel
+SHOPS: Winkels
+BUY: Koop
+TYPEIN: Typ in
+ITEMS: Artikelen
+SELL: Verkoop
+REVENUE: Omzet
+TRANSACTIONS: Transacties
+PURCHASING: Aankoop
+BUYING: Kopen
+SELLING: Verkopen
+PRICE: Prijs
+UNITS: Eenheden
+AMOUNT: Hoeveelheid
+BUY_FOR: Koop voor
+SELL_FOR: Verkoop voor
+AVAILABLE: Beschikbaar
+PRICE_PER_ITEM: Prijs per item
+STOCKED_ITEMS: Gevulde artikelen
+INCREASE: verhoging
+DECREASE: verlaging
+QUANTITY: Aantal
+CONFIRM: Bevestig
+FOR: voor
+YOU_WILL_RECEIVE: Je ontvangt
+ENCHANTED: Betoverd
+ITEMS_AVAILABLE: Beschikbare items
+CONTINUE: Doorgaan
+MONEY_PAID: Geld betaald
+GUI_OVERVIEW_OPENSHOPS_ACTION: Klik om winkels te openen
+GUI_OVERVIEW_OPENSETTINGS_ACTION: Klik om Instellingen te openen
+GUI_SHOPSETTINGS_BUY_LEFTACTION: **Linkermuis klik** om de koop prijs te **veranderen**
+GUI_SHOPSETTINGS_BUY_QACTION: **Druk op Q** om kopen uit te schakelen
+GUI_SHOPSETTINGS_BUY_OTHERACTION: **Klik** om **verkopen** aan te zetten
 #GUI_SHOPSETTINGS_BUY_EXPLANATION: Will buy at **%1** each
 #GUI_SHOPSETTINGS_SELL_LEFTACTION: **Left Click** to **change** sell price
 #GUI_SHOPSETTINGS_SELL_QACTION: **Press Q** to disable selling
