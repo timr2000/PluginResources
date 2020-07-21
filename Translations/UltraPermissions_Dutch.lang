@@ -32,10 +32,10 @@ ADD: Toevoegen
 TIME_FOR: tijd voor
 NONE: Geen
 DURATION: Duur
-COPY: Copy
+COPY: kopieer
 PASSED: Geslaagd
 FAILED: Mislukt
-SOURCE: Source
+SOURCE: Bron
 TIME_TILL_REMOVAL: Tijd tot verwijdering:
 COMMAND_INVALID_ARGS: Ongeldige argumenten
 COMMAND_NOTFOUND: Commando niet gevonden
