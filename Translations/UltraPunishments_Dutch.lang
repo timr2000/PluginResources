@@ -15,23 +15,23 @@ PUNISHMENTS: Straffen
 MESSAGE: Bericht
 EVIDENCE: Bewijsmateriaal
 BAN: Ban
-MUTE: Dempen
+MUTE: Demp
 OR: Of
 NONE: Geen
 ISSUER: Uitgever
 CREATE_REPORT: Maak een rapport
 GUI_OVERVIEW_PLAYERS_ACTION: Klik om spelers te tonen
 GUI_OVERVIEW_REPORTS_ACTION: Klik om geopende rapporten weer te geven
-GUI_OVERVIEW_SETTINGS_ACTION: Klik om Instellingen weer te geven
-GUI_OVERVIEW_TEMPLATES_ACTION: Klik om sjablonen weer te geven
+GUI_OVERVIEW_SETTINGS_ACTION: Klik om de Instellingen weer te geven
+GUI_OVERVIEW_TEMPLATES_ACTION: Klik om de sjablonen weer te geven
 GUI_OVERVIEW_TEMPLATES_BANTEMPLATES: Ban Sjablonen
-GUI_OVERVIEW_TEMPLATES_MUTETEMPLATES: Dempen Sjablonen
+GUI_OVERVIEW_TEMPLATES_MUTETEMPLATES: Demp Sjablonen
 TYPE_IN_REASON: Voer een reden in
 TYPE_IN_MESSAGE: Typ een bericht in
 SET_A_REASON: Klik om de reden in te stellen
 SET_A_DURATION: Klik om de duur in te stellen
 GUI_REPORTCREATION_ADDMESSAGE_TITLE: Bericht toevoegen
-GUI_REPORTCREATION_ADDMESSAGE_ACTION: Klik om **bericht** toe te voegen en **door te gaan**
+GUI_REPORTCREATION_ADDMESSAGE_ACTION: Klik om een **bericht** toe te voegen en **door te gaan**
 GUI_REPORTCREATION_ADDMESSAGE_EXPLANATION: Voeg een gedetailleerd bericht toe aan het rapport
 GUI_REPORTCREATION_ADDEVIDENCE_TITLE: Voeg bewijs toe
 GUI_REPORTCREATION_ADDEVIDENCE_ACTION: Klik om **bewijs** toe te voegen en **door te gaan**
